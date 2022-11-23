@@ -1,0 +1,13 @@
+﻿D:\VisualStudio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Проект_по_ОП.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  List.cpp
+  Contact list.cpp
+D:\Works_GuitHub_C++\Coursework-Contact-list\program\Contact list.cpp(148,32): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Works_GuitHub_C++\Coursework-Contact-list\program\Contact list.cpp(155,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Works_GuitHub_C++\Coursework-Contact-list\program\Contact list.cpp(541,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Works_GuitHub_C++\Coursework-Contact-list\program\Contact list.cpp(553,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Works_GuitHub_C++\Coursework-Contact-list\program\Contact list.cpp(592,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Works_GuitHub_C++\Coursework-Contact-list\program\Contact list.cpp(605,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Works_GuitHub_C++\Coursework-Contact-list\program\Contact list.cpp(839,25): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+  Создание кода...
+D:\Works_GuitHub_C++\Coursework-Contact-list\program\Contact list.cpp(99): warning C4715: phonesamecheck: значение возвращается не при всех путях выполнения
+  Проект_по_ОП.vcxproj -> D:\Works_GuitHub_C++\Coursework-Contact-list\program\Debug\Contact list.exe
